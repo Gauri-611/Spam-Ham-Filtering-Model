@@ -48,7 +48,3 @@ Example output:
 ```text
 Prediction: SPAM
 ```
-
-## Notes
-
-This is a beginner-friendly demo project, not a production-grade spam filter. For real-world use, you would usually want a larger dataset, better preprocessing, cross-validation, and more robust evaluation.
